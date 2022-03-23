@@ -1,14 +1,16 @@
 ![Cover](assets/imgs/back.png)
 
-[![Gmail Contact](https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrey.dvk.fr@gmail.comyy) [![Twitter Contact](https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeffreydvk)
+[![Gmail Contact](https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrey.dvk.fr@gmail.com)
+[![Twitter Contact](https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeffreydvk)
+[![Linkedin Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-davakan/)
 
-### In short 
+# In short 
 - 😉 **FullStack Web Developer** with some years of expérience
 - 😋 I'm huge fan of animation , beautiful and inspirings UI
 - ✒️ Great Novel , Manga/Manhwa/Webtoon reader , i consider myself as a Otaku
-- I'm a little so timide , so that's the best i can say about myself . Go see my portfolio website at [![✒️]](https://twitter.com/jeffreydvk)
+- I'm a little timide , so that's the best i can say about myself . Go see my portfolio website at [![✒️]](https://jeffreydvk.me)
 
-#### Some of the weapons i yield
+# Some of the weapons i yield
 ![](https://img.shields.io/badge/Linux-%23eab30f.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![](https://img.shields.io/badge/Git-%23e54a2f.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![](https://img.shields.io/badge/Github-%231a1d21.svg?style=for-the-badge&logo=github&logoColor=white) 
